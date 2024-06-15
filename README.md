@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huylam22
 - 👀 I’m interested in Software Development and Data Analysis
-- 💞️ I’m looking to collaborate on any entry software development position
+- 💞️ I’m looking to collaborate on any open source software development
 - 📫 How to reach me huy.lam0199@gmail.com
 
 <!---
